@@ -1,5 +1,5 @@
 # Pra treinar em casa 🏠
 
-## Cálculo da média
+## Subtração de dois números
 
-Utilizando pseudocódigo, escreva um algoritmo que peça ao usuário que insira quatro números e, em seguida, calcule a média desses números.
+Utilizando pseudocódigo, crie um algoritmo simples que solicite dois números ao usuário e exiba a diferença entre deles.

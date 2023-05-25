@@ -1,5 +1,6 @@
 # Pra treinar em casa 🏠
 
-## Subtração de dois números
+## Verificação de número par ou ímpar
 
-Utilizando pseudocódigo, crie um algoritmo simples que solicite dois números ao usuário e exiba a diferença entre deles.
+Utilizando pseudocódigo, escreva um algoritmo que peça um número ao usuário e determine se ele é par ou ímpar.
+

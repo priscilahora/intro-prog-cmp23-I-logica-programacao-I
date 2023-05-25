@@ -1,5 +1,5 @@
 # Pra treinar em casa 🏠
 
-## Contagem regressiva
+## Cálculo da média
 
-Utilizando pseudocódigo, escreva um algoritmo que peça ao usuário um número e faça uma contagem regressiva até zero a partir desse número.
+Utilizando pseudocódigo, escreva um algoritmo que peça ao usuário que insira quatro números e, em seguida, calcule a média desses números.
