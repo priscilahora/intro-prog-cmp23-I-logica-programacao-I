@@ -9,7 +9,7 @@ Bem-vindas aos exercícios de Algoritmo! O objetivo desses exercícios é fornec
 
 ## Como utilizar este repositório
 
-1. Clone este repositório na sua máquina local.
+1. Fork e clone este repositório na sua máquina local.
 
 2. Navegue pelos diretórios e encontre os exercícios individuais. Cada exercício está em seu próprio diretório e inclui um arquivo `README.md` com a descrição do problema.
 
