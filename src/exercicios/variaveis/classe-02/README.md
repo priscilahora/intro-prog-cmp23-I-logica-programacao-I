@@ -1,5 +1,4 @@
-# Pra treinar em casa 🏠
-
+# Pra treinar na aula
 ## Imprimindo informações
 
 Utilizando javascript, declare e insira valores nas variáveis:

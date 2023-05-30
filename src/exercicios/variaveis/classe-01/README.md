@@ -1,4 +1,4 @@
-# Pra treinar em casa 🏠
+# Pra treinar na sala
 
 ## Olá Mundo
 
