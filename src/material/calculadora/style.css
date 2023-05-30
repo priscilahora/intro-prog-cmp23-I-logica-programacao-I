@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Poppins:ital,wght@0,200;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    overflow: hidden;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(80deg, #ec0b0e, #ff00a6);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+fieldset {
+    background-color: rgb(0, 0, 0);
+    padding: 50px;
+    border-radius: 20px;
+    border: none;
+    width: 250px;
+    box-shadow: 4px 8px 20px rgb(0, 0, 0);
+}
+
+ol li{
+    color: white;
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+
+ol{
+    padding-bottom: 30px;
+}
+
+legend {
+    color: white;
+}
+
+label {
+    color: white;
+    font-weight: 500;
+}
+
+input {
+    border-radius: 20px;
+    border: solid 1px #ff00a6;
+    padding: 10px;
+}
+
+button {
+    border-radius: 20px;
+    border: none;
+    padding: 15px;
+    justify-content: center;
+    margin-left: 80px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(80deg, #ec0b0e, #ff00a6);   
+    box-shadow: 0px 4px 6px white;
+}
+
+button:hover{
+    transform: scale(1.1);
+    transition: 0.8s;
+}
