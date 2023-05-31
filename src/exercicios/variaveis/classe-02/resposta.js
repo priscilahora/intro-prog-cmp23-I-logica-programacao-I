@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // - Livro
 // - Autor
 // - Quantidade de páginas
@@ -20,3 +21,12 @@ console.log("O nome do livro é:", livro, "o autor é:", autor, "e possui", quan
 
 //imprimi as variaveis no console utilizando template string
 console.log(`O nome do livro é: ${livro}, o autor é ${autor} e possui ${quantidadeDePaginas} páginas.`)
+=======
+const livro = "Cidades de Papel";
+const autor = "John Green";
+const quantidadePaginas = 251;
+let preco = 40.99;
+const jaLeu = false;
+
+console.log("O nome do livro é:", livro)
+>>>>>>> af4b7e8 (add exercicios feitos em aula)
