@@ -1,5 +1,3 @@
-
-
 # Exercícios de classe 🏫
 
 ## Desconto do tênis

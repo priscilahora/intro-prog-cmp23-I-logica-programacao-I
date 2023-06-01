@@ -1,5 +1,3 @@
-
-
 # Exercícios de classe 🏫
 
 ## Calculadora de IMC
